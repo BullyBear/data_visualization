@@ -1,0 +1,20 @@
+title {
+	font-size: 16px;
+	font-weight: 400;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+body.container {
+	display: inline;
+	padding: 0 10px 80px;
+	font-family: 'proxima-nova-1', sans-serif;
+	font-size: 12px;
+	background-color: white;
+
+}
+
+
+
+
